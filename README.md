@@ -7,7 +7,7 @@
 - Ambil elemen terakhir
 
 #### Program
-![Gambar1](Ss/input akses.jpeg)
+![Gambar1](Ss/1.jpeg)
 #### Penjelasan
 1. Membuat list dengan nilai yang diinginkan
 ```python
@@ -29,18 +29,18 @@ print('Elemen ke-2 sampai ke-4', bunga[1:5])
 print ('Elemen terakhir', bunga[-1])
 ```
 #### Output
-![Gambar2](Ss/Output akses.jpeg)
+![Gambar2](Ss/2.jpeg)
 ### Mengubah Elemen List
 - Ubah elemen ke-4 dengan nilai lainnya
 - Ubah elemen ke-4 sampai dengan elemen terakhir
 
 #### Program
-![Gambar3](Ss/ubah elemen.jpeg)
+![Gambar3](Ss/3.jpeg)
 #### Penjelasan
 1. Membuat list dengan nilai yang diinginkan
 ```python
 bunga = ['mawar', 'melati', 'tulip', 'kamboja', 'levender', 'teratai']
-2. Menampilakn semua elemen yang terdapat pada list diatas
+ 2. Menampilakn semua elemen yang terdapat pada list diatas
 ```python
 bunga[3] = 'kembang sepatu'
 print("bunga sesudah di ubah:", bunga)
@@ -51,7 +51,7 @@ bunga[3:] = ["matahari", "calla lily"]
 print("ubah elemen ke-4 hingga akhir :", bunga)
 ```
 ### Output
-![Gambar4](Ss/Output elemen.jpeg)
+![Gambar4](Ss/4.jpeg)
 ### Menambahkan Elemen List
 - Ambil 2 bagian dari list pertama (A) dan jadikan list ke-2 (B)
 - Tambah list B dengan nilai string
@@ -59,7 +59,7 @@ print("ubah elemen ke-4 hingga akhir :", bunga)
 - Gabungkan list B dengan list A
 
 #### Program
-![Gambar5](Ss/Input tambah elemen.jpeg)
+![Gambar5](Ss/5.jpeg)
 #### Penjelasan
 1. Membuat list dengan variabel a dan b
 ```python
@@ -89,13 +89,13 @@ print()
 print(a + b)
 ```
 #### Output
-![Gambar6](Ss/Output tambah elemen.jpeg)
+![Gambar6](Ss/6.jpeg)
 
 ## Tugas Praktikum
 ### Program sederhana untuk menambahkan data kedalam sebuat list 
 #### Program
 ![Gambar7](Ss/flowchart.jpeg)
-![Gambar8](Ss/Input pratikum.png)
+![Gambar8](Ss/7.png)
 #### Penjelasan
 1. Mendeklarasi list
 ```python
@@ -157,7 +157,7 @@ no += 1
 print(73*"=")
 ```
 #### Output
-![Gambar9](Ss/output pratikum.png)
+![Gambar9](Ss/8.png)
 
 #### Selesai
 
